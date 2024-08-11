@@ -2,8 +2,6 @@
 
 using DebugHelpers;
 
-// ReSharper disable SwapViaDeconstruction
-
 RemoveDuplicates([1, 1, 2]).Print();
 RemoveDuplicates([0, 0, 1, 1, 1, 2, 2, 3, 3, 4]).Print();
 return;
