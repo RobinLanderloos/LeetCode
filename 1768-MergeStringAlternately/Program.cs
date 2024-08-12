@@ -3,7 +3,7 @@
 using System.Text;
 using DebugHelpers;
 
-Console.WriteLine("Hello, World!");
+Console.WriteLine("1768 - Merge Strings Alternately");
 
 MergeAlternately("abc", "pqr").Print();
 MergeAlternately("ab", "pqrs").Print();
