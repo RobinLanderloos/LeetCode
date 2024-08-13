@@ -20,6 +20,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "121-BestTimeToBuyAndSellSto
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1768-MergeStringAlternately", "1768-MergeStringAlternately\1768-MergeStringAlternately.csproj", "{48E6371E-20D9-40A7-82D7-03AF3D40B627}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1071-GreatestCommonDivisorOfStrings", "1071-GreatestCommonDivisorOfStrings\1071-GreatestCommonDivisorOfStrings.csproj", "{A4652760-A4C4-49DC-BCB6-EB9D656318F3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -62,5 +64,9 @@ Global
 		{48E6371E-20D9-40A7-82D7-03AF3D40B627}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{48E6371E-20D9-40A7-82D7-03AF3D40B627}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{48E6371E-20D9-40A7-82D7-03AF3D40B627}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4652760-A4C4-49DC-BCB6-EB9D656318F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4652760-A4C4-49DC-BCB6-EB9D656318F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4652760-A4C4-49DC-BCB6-EB9D656318F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4652760-A4C4-49DC-BCB6-EB9D656318F3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
