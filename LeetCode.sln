@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "345-ReverseVowelsOfAString"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "283-MoveZeroes", "283-MoveZeroes\283-MoveZeroes.csproj", "{CD65D451-56AC-4C28-B4B7-D9B38B964709}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "392-IsSubsequence", "392-IsSubsequence\392-IsSubsequence.csproj", "{A83A2B5B-1C1E-4937-B3D8-ED141E2A5B1D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -95,5 +97,9 @@ Global
 		{CD65D451-56AC-4C28-B4B7-D9B38B964709}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CD65D451-56AC-4C28-B4B7-D9B38B964709}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CD65D451-56AC-4C28-B4B7-D9B38B964709}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A83A2B5B-1C1E-4937-B3D8-ED141E2A5B1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A83A2B5B-1C1E-4937-B3D8-ED141E2A5B1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A83A2B5B-1C1E-4937-B3D8-ED141E2A5B1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A83A2B5B-1C1E-4937-B3D8-ED141E2A5B1D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

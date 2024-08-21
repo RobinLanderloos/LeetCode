@@ -4,5 +4,6 @@
     &lt;TestId&gt;NUnit3x::17835942-D6E8-4EFF-84E0-3737E2CA4ECA::net8.0::_605_CanPlaceFlowers.FlowerbedTests&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;NUnit3x::921B2063-23E7-49FD-B527-5D3807769783::net8.0::_345_ReverseVowelsOfAString.VowelReverserTests&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;NUnit3x::CD65D451-56AC-4C28-B4B7-D9B38B964709::net8.0::_283_MoveZeroes.ZeroesMoverTests.MovesAllZeroesToEnd_AndMaintainsOrder&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::A83A2B5B-1C1E-4937-B3D8-ED141E2A5B1D::net8.0::_392_IsSubsequence.SubsequenceDeterminatorTests&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
