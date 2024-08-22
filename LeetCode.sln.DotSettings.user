@@ -11,5 +11,6 @@
     &lt;TestId&gt;NUnit3x::AD3249B7-EF28-4F67-A053-9C5392D21839::net8.0::_724_FindPivotIndex.PivotIndexFinderTests&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;NUnit3x::42ECDCE8-0353-4112-BA29-5742B65DC418::net8.0::_2215_FindTheDifferenceOfTwoArrays.ArrayDifferenceFinderTests&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;NUnit3x::E39E9584-F782-4377-A891-2D35D54F018B::net8.0::_1207_UniqueNumberOfOccurrences.UniqueOccurrenceFinderTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::B491D127-C676-427A-A35D-6C615C86EC20::net8.0::_933_NumberOfRecentCalls.RecentCallsCounterTests&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
