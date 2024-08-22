@@ -10,5 +10,6 @@
     &lt;TestId&gt;NUnit3x::F58EFEEE-C4F4-46CB-9784-E57D3B1043A4::net8.0::_1732_FindTheHighestAltitude.AltitudeServiceTests&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;NUnit3x::AD3249B7-EF28-4F67-A053-9C5392D21839::net8.0::_724_FindPivotIndex.PivotIndexFinderTests&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;NUnit3x::42ECDCE8-0353-4112-BA29-5742B65DC418::net8.0::_2215_FindTheDifferenceOfTwoArrays.ArrayDifferenceFinderTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::E39E9584-F782-4377-A891-2D35D54F018B::net8.0::_1207_UniqueNumberOfOccurrences.UniqueOccurrenceFinderTests&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
