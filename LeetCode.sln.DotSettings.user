@@ -1,5 +1,6 @@
 ﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
 	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=7020124F_002D9FFC_002D4AC3_002D8F3D_002DAAB8E0240759_002Ff_003ALateBoundTestFramework_002Ecs_002Fl_003A_002E_002E_003F_002E_002E_003FUsers_003FFK6216_003FAppData_003FRoaming_003FJetBrains_003FRider2024_002E2_003Fresharper_002Dhost_003FSourcesCache_003F4192c016ac87865a13f36155d8104b1ccc818c55593b451cc2168ac54b76f6f_003FLateBoundTestFramework_002Ecs/@EntryIndexedValue">ForceIncluded</s:String>
+	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=7020124F_002D9FFC_002D4AC3_002D8F3D_002DAAB8E0240759_002Ff_003AMethodBaseInvoker_002Ecs_002Fl_003A_002E_002E_003F_002E_002E_003FUsers_003FFK6216_003FAppData_003FRoaming_003FJetBrains_003FRider2024_002E2_003Fresharper_002Dhost_003FDecompilerCache_003Fdecompiler_003F24372012c6c94138bf3f496e104366ffc8f918_003Fad_003Fa6cef6f7_003FMethodBaseInvoker_002Ecs/@EntryIndexedValue">ForceIncluded</s:String>
 	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=dad656cc_002D577b_002D4f55_002Dbbd0_002D063154a1d2dc/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="FlowerbedTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
   &lt;TestAncestor&gt;&#xD;
     &lt;TestId&gt;NUnit3x::17835942-D6E8-4EFF-84E0-3737E2CA4ECA::net8.0::_605_CanPlaceFlowers.FlowerbedTests&lt;/TestId&gt;&#xD;
@@ -13,5 +14,6 @@
     &lt;TestId&gt;NUnit3x::E39E9584-F782-4377-A891-2D35D54F018B::net8.0::_1207_UniqueNumberOfOccurrences.UniqueOccurrenceFinderTests&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;NUnit3x::B491D127-C676-427A-A35D-6C615C86EC20::net8.0::_933_NumberOfRecentCalls.RecentCallsCounterTests&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;NUnit3x::DB177497-FCDA-4C01-A1A1-4CAEE6548CE5::net8.0::_206_ReverseLinkedList.LinkedListExtensionsTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::640D30C6-C715-4DD8-8103-BBA3B5EF2EC3::net8.0::_104_MaximumDepthOfBinaryTree.TreeNodeTests&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
