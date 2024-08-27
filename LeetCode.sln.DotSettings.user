@@ -15,5 +15,7 @@
     &lt;TestId&gt;NUnit3x::B491D127-C676-427A-A35D-6C615C86EC20::net8.0::_933_NumberOfRecentCalls.RecentCallsCounterTests&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;NUnit3x::DB177497-FCDA-4C01-A1A1-4CAEE6548CE5::net8.0::_206_ReverseLinkedList.LinkedListExtensionsTests&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;NUnit3x::640D30C6-C715-4DD8-8103-BBA3B5EF2EC3::net8.0::_104_MaximumDepthOfBinaryTree.TreeNodeTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::038A14BD-0498-46DF-842F-A89EF47CE08D::net8.0::_872_LeafSimilarTests.BinaryTreeExtensionTests.ShouldReturnExpectedResultOnLeafSimilar&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::038A14BD-0498-46DF-842F-A89EF47CE08D::net8.0::_872_LeafSimilarTests.BinaryTreeExtensionTests&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
