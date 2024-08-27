@@ -57,6 +57,11 @@ public static class BinaryTreeExtensions
 	private static void Traverse(this TreeNode node,
 		List<int> leafValues)
 	{
+		if (node.right == null && node.left == null) // Found a leaf node
+		{
+			leafValues.Add(node.val);
+		}
+
 		if (node.left != null)
 		{
 			Traverse(node.left, leafValues);
@@ -65,11 +70,6 @@ public static class BinaryTreeExtensions
 		if (node.right != null)
 		{
 			Traverse(node.right, leafValues);
-		}
-
-		if (node.right == null && node.left == null) // Found a leaf node
-		{
-			leafValues.Add(node.val);
 		}
 	}
 }

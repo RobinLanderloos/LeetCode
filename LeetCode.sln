@@ -53,6 +53,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "104-MaximumDepthOfBinaryTre
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "872-LeafSimilarTests", "872-LeafSimilarTests\872-LeafSimilarTests.csproj", "{038A14BD-0498-46DF-842F-A89EF47CE08D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "700-SearchInABinarySearchTree", "700-SearchInABinarySearchTree\700-SearchInABinarySearchTree.csproj", "{21C1C2AF-50DA-44EF-97BB-F1902C2B73EF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -155,5 +157,9 @@ Global
 		{038A14BD-0498-46DF-842F-A89EF47CE08D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{038A14BD-0498-46DF-842F-A89EF47CE08D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{038A14BD-0498-46DF-842F-A89EF47CE08D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21C1C2AF-50DA-44EF-97BB-F1902C2B73EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21C1C2AF-50DA-44EF-97BB-F1902C2B73EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21C1C2AF-50DA-44EF-97BB-F1902C2B73EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21C1C2AF-50DA-44EF-97BB-F1902C2B73EF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
