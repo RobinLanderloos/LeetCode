@@ -18,5 +18,6 @@
     &lt;TestId&gt;NUnit3x::038A14BD-0498-46DF-842F-A89EF47CE08D::net8.0::_872_LeafSimilarTests.BinaryTreeExtensionTests.ShouldReturnExpectedResultOnLeafSimilar&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;NUnit3x::038A14BD-0498-46DF-842F-A89EF47CE08D::net8.0::_872_LeafSimilarTests.BinaryTreeExtensionTests&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;NUnit3x::21C1C2AF-50DA-44EF-97BB-F1902C2B73EF::net8.0::_700_SearchInABinarySearchTree.TreeNodeTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::64A8A96B-951A-48AF-B7C0-DCFD4A9D4B58::net8.0::_374_GuessNumberHigherOrLower.GuessGameTests&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
