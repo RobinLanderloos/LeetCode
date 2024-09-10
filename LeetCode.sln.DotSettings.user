@@ -6,5 +6,6 @@
 	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=dad656cc_002D577b_002D4f55_002Dbbd0_002D063154a1d2dc/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="FlowerbedTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
   &lt;TestAncestor&gt;&#xD;
     &lt;TestId&gt;NUnit3x::E1B2CE5D-B3B3-485D-BFC3-A9AAFC92F3AF::net8.0::_746_MinCostClimbingStairs.StairTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::1044B1E8-D723-426C-AC58-98BBD08E79FC::net8.0::_338_CountingBits.BinaryRepresentationCounterTests&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
