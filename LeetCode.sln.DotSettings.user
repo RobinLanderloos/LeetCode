@@ -9,5 +9,6 @@
     &lt;TestId&gt;NUnit3x::1044B1E8-D723-426C-AC58-98BBD08E79FC::net8.0::_338_CountingBits.BinaryRepresentationCounterTests&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;NUnit3x::33EC847C-0600-4B87-A758-6BDFCE019EA9::net8.0::_136_SingleNumber.SingleNumberFinderTests.ShouldReturnOnlySingleNumber&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;NUnit3x::33EC847C-0600-4B87-A758-6BDFCE019EA9::net8.0::_136_SingleNumber.SingleNumberFinderTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::0A4E8513-94F7-403C-9026-8D0BB7FE92A9::net8.0::_151_ReverseWordsInAString.StringReverserTests&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

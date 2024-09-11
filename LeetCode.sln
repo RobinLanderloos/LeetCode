@@ -65,6 +65,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "338-CountingBits", "338-Cou
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "136-SingleNumber", "136-SingleNumber\136-SingleNumber.csproj", "{33EC847C-0600-4B87-A758-6BDFCE019EA9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "151-ReverseWordsInAString", "151-ReverseWordsInAString\151-ReverseWordsInAString.csproj", "{0A4E8513-94F7-403C-9026-8D0BB7FE92A9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -191,5 +193,9 @@ Global
 		{33EC847C-0600-4B87-A758-6BDFCE019EA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{33EC847C-0600-4B87-A758-6BDFCE019EA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{33EC847C-0600-4B87-A758-6BDFCE019EA9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A4E8513-94F7-403C-9026-8D0BB7FE92A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A4E8513-94F7-403C-9026-8D0BB7FE92A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A4E8513-94F7-403C-9026-8D0BB7FE92A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A4E8513-94F7-403C-9026-8D0BB7FE92A9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
